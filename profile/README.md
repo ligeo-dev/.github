@@ -1,3 +1,3 @@
 En 2025, Ligeo Développement devient Boscop.
-https://github.com/boscop-fr
-https://boscop.fr
+
+[Boscop on GitHub](https://github.com/boscop-fr) | [Website](https://boscop.fr)
